@@ -1,0 +1,10 @@
+.registerContainer {
+  padding: 10px;
+}
+
+.registerInput {
+  margin: 20px;
+  padding: 10px;
+  font-size: 18px;
+  border-color:  rgb(216, 216, 216);
+}

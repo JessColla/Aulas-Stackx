@@ -1,7 +1,7 @@
 .plansAndPrices {
   display: flex;
   justify-content: space-between;
-  padding: 150px;
+  padding: 50px 150px;
 }
 
 .plansContainer {
@@ -29,12 +29,53 @@
   margin: 0;
 }
 
+.values{
+   font-size: 40px;
+  color: orange;
+  font-family: "Lato", sans-serif;
+  border: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  margin-top:20px ;
+}
+
 .plansContainer:hover .title{color: black;}
 
-.buttonBuy {
+.plansContainer:hover .values{color: black;}
+
+.button {
   display: flex;
   flex-direction: column;
   align-items: center;
 }
 
+.buttonBuy{
+  background-color: orange;
+ font-size: 25px;
+ margin-top: 30px;
+ border: none;
+ border-radius: 10px;
+ padding: 10px;
+}
+
+.buttonBuy:hover{
+   transform: scale(1.05);
+   background-color: white;
+}
+
+.buttonRegister{
+background-color: orange;
+ font-size: 25px;
+ border: none;
+ border-radius: 10px;
+ padding: 10px;
+ height: 45px;
+}
+
+.buttonRegister:hover{
+  transform: scale(1.05);
+   background-color: black;
+   color: white;
+}
 
