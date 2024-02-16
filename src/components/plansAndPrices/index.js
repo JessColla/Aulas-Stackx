@@ -5,6 +5,7 @@ import Input from "../input";
 import sesi from "../../img/sesi.png";
 import sesi2 from "../../img/sesi2.png";
 import sesi3 from "../../img/sesi3.png";
+import "./index.css";
 
 const listItems = [
   {
@@ -34,18 +35,17 @@ function PlansAndPrices() {
   };
 
   return (
-    <div>
+    <div className="plansAndPrices">
       {listItems.map(function (item) {
         return (
           <div>
-            <Title title={item.title} />
-            <ImagePlans src={item.src} alt={item.alt} />
-            <Button onClick={handleOnClick} text="Comprar" />
-            <Input
-              type="text"
-              onChange={handleShowMessage}
-              planceholder="Digite uma letra"
-            />
+            <div className="plansContainer">
+              <Title className="title" title={item.title} />
+              <ImagePlans src={item.src} alt={item.alt} />
+            </div>
+            <div className="buttonBuy">
+              <Button onClick={handleOnClick} text="Comprar" />
+            </div>
           </div>
         );
       })}
