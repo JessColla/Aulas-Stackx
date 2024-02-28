@@ -1,18 +1,17 @@
 import React from "react";
-import Imput from "../input";
-import Button from "../button";
+import Input from "../input";
+import "./index.css";
 
 function Register() {
   const handleSubmit = (event) => {
     event.preventDefault();
-    alert("Formulário enviado");
+    alert("Formulário Enviado");
   };
   return (
-    <div>
+    <div className="registerContainer">
       <form onSubmit={handleSubmit}>
-        <Imput type="text" placeholder="Nome" />
-        <Imput type="email" placeholder="e-mail" />
-        <Button text="Cadastrar" />
+        <Input className="registerInput" type="text" placeholder="Nome" />
+        <Input className="registerInput" type="email" placeholder="E-mail" />
       </form>
     </div>
   );

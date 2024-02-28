@@ -3,8 +3,7 @@ import "./index.css";
 
 function Button(props) {
   return (
-    <button className="colorButton" onClick={props.onClick}>
-      {" "}
+    <button className={props.className} onClick={props.onClick}>
       {props.text}
     </button>
   );
