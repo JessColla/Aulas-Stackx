@@ -1,71 +1,42 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# React.js para Juniors 🚀
 
-In the project directory, you can run:
+Bem-vindos às nossas aulas de React.js! Preparem-se para uma jornada emocionante no mundo da criação de interfaces de usuário interativas e dinâmicas. 🎉
 
-### `npm start`
+## Sobre as Aulas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Nossas aulas são cheias de diversão, desafios e muita aprendizagem! Aqui estão algumas coisas que fazemos até agora:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Mergulho no Mundo React
 
-### `npm test`
+- Aprendemos o que é React e por que é tão incrível!
+- Configuramos nosso ambiente de desenvolvimento, porque, vamos encarar, você não pode criar coisas legais sem uma configuração adequada! 💻
+- Exploramos componentes, que são os blocos de construção fundamentais do React. Eles são como peças de LEGO, mas para o seu aplicativo!
+- Falamos sobre JSX, que é como HTML, mas mais legal e mais poderoso!
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Hooks, Linha e Anzóis
 
-### `npm run build`
+- Descobrimos os maravilhosos hooks do React, como useState e useEffect. Eles nos permitem adicionar estado e efeitos a componentes funcionais. 🎣
+- Aprendemos a usar o useState para adicionar interatividade aos nossos componentes. Clique em um botão e veja a mágica acontecer!
+- Exploramos o useEffect para realizar ações secundárias em nossos componentes, como buscar dados de uma API ou atualizar o título da página.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Bora Codar!
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Colocamos tudo em prática com projetos divertidos, como um mini jogo de contagem de cliques ou um aplicativo de lista de tarefas. A imaginação é o limite!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Próximos Passos
 
-### `npm run eject`
+Estamos apenas começando! Aqui está o que podemos esperar nas próximas aulas:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Explorar mais hooks do React, como useContext e useCallback. Vamos desbloquear ainda mais poderes para nossos componentes!
+- Aprofundar nossos conhecimentos em roteamento com React Router. Navegar entre telas nunca foi tão emocionante!
+- Introduzir padrões de design avançados, como Container/Presentational e render props. Vamos tornar nosso código ainda mais elegante!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Vamos Codar, Galera!
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Então, juniores, preparem seus teclados e deixem a criatividade fluir! Estamos prestes a criar coisas incríveis juntos. 🚀🎨
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Divirtam-se e não se esqueçam de perguntar se tiverem dúvidas!
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# teste
+Happy coding! 😄✨
